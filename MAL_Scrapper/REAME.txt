@@ -1,0 +1,14 @@
+https://myanimelist.net/topmanga.php
+
+https://myanimelist.net/topmanga.php?limit=50
+
+(upto lmimit 1000)
+
+https://myanimelist.net/topanime.php
+
+https://myanimelist.net/topanime.php?limit=50
+
+TFIDF - Term Frequency Iverse Document Frequency
+
+
+https://httpbin.org/get
