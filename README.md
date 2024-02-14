@@ -11,3 +11,6 @@ My Anime List provides API access to their data and it is recommended to use tha
 ## Contributors
 - [Muhammad Furqan Khalil](https://github.com/FurqanHun)
 - [Muhammad Yameen](https://github.com/yameen022)
+
+## Special Thanks To
+- [MyAnimeList](https://myanimelist.net/) for providing the data.
