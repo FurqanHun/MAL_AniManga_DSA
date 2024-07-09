@@ -9,7 +9,7 @@ Aside form four different machine learning models, the project also uses a deep 
 My Anime List provides API access to their data and it is recommended to use that or Jaiken's [Jikan](https://jikan.moe/) API to access the data instead of scraping the data from the website. The project is not meant to be used for any commercial purposes and is only meant for educational purposes. The project is not affiliated with My Anime List in any way. Web Scraping was done in order to learn the process of scraping data from a website and to learn the process of using machine learning and deep learning models to train data. Also we made sure to do it in a way that does not put any load on the website. We scrapped the data over the course of two weeks and made sure to not send too many requests at once.
 
 ## Contributors
-- [Muhammad Furqan Khalil](https://github.com/FurqanHun)
+- [Qanii](https://github.com/FurqanHun)
 - [Muhammad Yameen](https://github.com/yameen022)
 
 ## Special Thanks To
